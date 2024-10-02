@@ -13,5 +13,4 @@ How It Works
 The function dijkstra() calculates the shortest path using a priority queue-like structure to select the vertex with the minimum value that hasn't been processed yet.
 After calculating the shortest paths, the results are printed, showing the path from the source vertex to each vertex and the corresponding weights.
 
-![image](https://github.com/user-attachments/assets/1e75b848-48a7-4112-97ac-ffd830fb37bf)
 
